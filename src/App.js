@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Share React Code
+          Some more shared code
         </a>
       </header>
     </div>
